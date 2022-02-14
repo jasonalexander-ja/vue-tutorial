@@ -7,7 +7,6 @@
 		<router-view
 			:showAddTask="showAddTask"
 		>
-
 		</router-view>
 		<Footer />
 	</div>
